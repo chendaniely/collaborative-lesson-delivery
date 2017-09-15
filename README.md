@@ -11,6 +11,7 @@ please submit a pull request to:
 ## Authors
 
 - [Greg Wilson](http://third-bit.com)
+- [Daniel Chen](http://chendaniely.github.io/)
 
 These authors contributed equally to this work.
 
