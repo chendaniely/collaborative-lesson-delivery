@@ -23,6 +23,13 @@ These authors contributed equally to this work.
 
 1. Keep 'em coming, we'll sort 'em out later.
 
+1. Feedback, feedback, feedback!
+    While teaching, constant feedback is important.
+    Use this opportunity to see what works and what doesn't.
+    Have students provide feedback (post-it notes?) and try to incorporate them as soon as possible.
+    This allows students to be part of the community by providing feed back to a collborative lesson.
+    Get them empowered, movitated, and started early.
+
 ## References
 
 [10-lesson-dev]: https://github.com/swcarpentry/collaborative-lesson-development
